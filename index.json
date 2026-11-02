@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-fsm-2",
+  "versions": [
+    {
+      "commit": "5bdfdf0fe340d10d6aae9200eec2e5988a307f1d",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:31:31.274319+00:00"
+    }
+  ]
+}
